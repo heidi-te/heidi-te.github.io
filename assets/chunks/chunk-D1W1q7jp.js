@@ -1,1 +1,0 @@
-import{r as t,j as n}from"./chunk-FH2Q1xvC.js";const o=t.forwardRef((s,e)=>{const{children:a,$webstudio$canvasOnly$assetId:i,...r}=s;return n.jsx("a",{...r,href:r.href??"#",ref:e,children:a})});o.displayName="Link";export{o as a};
